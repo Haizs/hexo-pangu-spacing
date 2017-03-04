@@ -1,6 +1,6 @@
 {
   "name": "hexo-pangu-spacing",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Add spaces by pangu.js.",
   "main": "index",
   "repository": {
@@ -20,6 +20,6 @@
     "url": "https://raw.githubusercontent.com/Haizs/hexo-pangu-spacing/master/LICENSE"
   },
   "dependencies": {
-    "pangu": "^0.1.0"
+    "pangu": "*"
   }
 }
