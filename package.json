@@ -1,6 +1,6 @@
 {
   "name": "hexo-pangu-spacing",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Add spaces by pangu.js.",
   "main": "index",
   "repository": {
